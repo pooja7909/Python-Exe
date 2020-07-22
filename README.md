@@ -1,2 +1,9 @@
-# Python-Exe
-I have three python files in one folder all interlinked to a main.py how do I create exe file for main so that the dependent files also work. Thanks
+# HOTEL-MANGEMENT-GUI-AND-NORMAL-PROGRAM-PYTHON-
+I have tried to computerize the hotel management system through my project.
+The project is written in Python 3 that uses OOPS concept ie it is based on object and classes.
+
+FOR THE GUI I HAVE USED TKINTER AND PAGE
+
+THE NORMAL CODE IS NAMED AS MAIN.PY
+
+TO RUN THE GUI JUST EXECUTE MAINLY.PY
